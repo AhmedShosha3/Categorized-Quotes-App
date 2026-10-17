@@ -1,10 +1,10 @@
 name: final_project
 description: "Arabic quotes app (Love, Life, Quotes, Islamic) with light/dark mode."
-publish_to: 'none'
+publish_to: "none"
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: ">=3.3.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -29,4 +29,4 @@ flutter:
   fonts:
     - family: myfont
       fonts:
-        - asset: assets/Text/(A) Arslan Wessam A (A) Arslan Wessam A.ttf
+        - asset: assets/Text/Cairo/static/Cairo-Regular.ttf

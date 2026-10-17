@@ -6,7 +6,7 @@ A Flutter app that organizes Arabic quotes into categories, with light and dark 
 
 ## Features
 
-- Quotes grouped into Love, Life, Quotes and Islamic categories
+- Quotes grouped into Love, Life, General and Islamic categories
 - Category-based navigation
 - Light and dark themes
 - Custom Arabic typography for readability
