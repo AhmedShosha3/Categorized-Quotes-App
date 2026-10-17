@@ -1,0 +1,20 @@
+# Build output & tooling (the old repo had a 138 MB APK in build/)
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+*.iml
+.gradle/
+android/local.properties
+android/.gradle/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+*.apk
+*.log
