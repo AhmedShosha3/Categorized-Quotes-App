@@ -11,6 +11,9 @@ A Flutter app that organizes Arabic quotes into categories, with light and dark 
 - Light and dark themes
 - Custom Arabic typography for readability
 
+## Font
+Cairo, licensed under the SIL Open Font License.
+
 ## Built with
 
 Flutter · Dart
